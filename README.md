@@ -9,7 +9,7 @@ It contain the Spider class which has all the attributes required like crawled l
 # Linksfinder.py
 It checks for anchor ('a') tag with attribute 'href' in the feeded html string given by a spider thread and stores all the links in a txt file which contain the domain name.
 
-#domain.py
+# domain.py
 This is used to get the domain name from a url.
 
 # general.py
